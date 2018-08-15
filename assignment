@@ -17,6 +17,12 @@ main()
   printf("Line - *= 运算符实例，c的值 = %d\n",c);
   
   c/=a;
-  printf("Line -/= 运算符实例，c的值 = &d\n",c);
+  printf("Line - /= 运算符实例，c的值 = &d\n",c);
   
+  c=200;
+  c%=a;
+  printf("Line - %= 运算符实例，c的值 = &d\n",c);
+  
+  c<<=2;
+  printf("Line - <<= 运算符实例，c的值 = &d\n",c);
 }

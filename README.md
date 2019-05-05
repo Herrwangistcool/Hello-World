@@ -1,7 +1,4 @@
 /*C语言基础学习*/
-#include<stdio.h>
-int main()
-{
-  printf("Hello World\n");
-  return 0;
-}
+The basic knowledge of C programm.
+The following are some simple example code.
+Reviewing these codes help me better understanding the usage of C.

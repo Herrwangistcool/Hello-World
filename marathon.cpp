@@ -7,7 +7,7 @@ int main(void)
 	
 	miles=26;
 	yards=385;
-	kilometers=1.609*(miles+yards/1760.0);
+	kilometers=1.609*(miles+yards/1760.0);//转化为公里
 	printf("A marathon is %f kilometers.\n",kilometers);
 	
 	return 0;

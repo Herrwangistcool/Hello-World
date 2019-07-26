@@ -1,0 +1,5 @@
+﻿  分别输出多位数.cpp
+E:\DevC++\分别输出多位数\分别输出多位数\分别输出多位数.cpp(6,7): error C4430:  缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\DevC++\分别输出多位数\分别输出多位数\分别输出多位数.cpp(10,74): error C2078:  初始值设定项太多
+E:\DevC++\分别输出多位数\分别输出多位数\分别输出多位数.cpp(13,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
